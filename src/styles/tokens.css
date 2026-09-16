@@ -49,8 +49,8 @@
   --text-xl:      1.9531rem;
   --text-2xl:     2.4414rem;
   --text-3xl:     3.0518rem;   /* article titles */
-  --text-display-s: clamp(2.75rem, 4.2vw + 1rem, 4.25rem);   /* 51–90 char statements */
-  --text-display: clamp(3.25rem, 7.5vw + 0.5rem, 8.5rem);    /* ≤50 char statements */
+  --text-display-s: clamp(2.25rem, 3.2vw + 1rem, 3.25rem);   /* 51–90 char statements */
+  --text-display: clamp(2.25rem, 4.2vw + 0.5rem, 4.5rem);    /* ≤50 char statements — home hero */
 
   /* ---- space · 4pt scale ---- */
   --space-3xs: 0.125rem;  /* 2px */

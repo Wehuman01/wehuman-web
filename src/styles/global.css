@@ -631,8 +631,8 @@ html[lang="zh"] .doc-head h1 { line-height: 1.25; letter-spacing: 0; }
 
 @media (max-width: 40rem) {
   :root { --page-gutter: 1.25rem; }
-  .display { font-size: clamp(2.5rem, 11vw, 3.5rem); }
-  .display-s { font-size: clamp(1.9rem, 8.5vw, 2.6rem); }
+  .display { font-size: clamp(1.75rem, 8vw, 2.5rem); }
+  .display-s { font-size: clamp(1.55rem, 6.5vw, 2.1rem); }
   .mast__nav ul { gap: var(--space-sm) var(--space-lg); }
   .doc-head h1 { font-size: var(--text-2xl); }
   .record__name { font-size: var(--text-xl); }
