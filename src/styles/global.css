@@ -458,7 +458,8 @@ html[lang="zh"] .sec-index__all { letter-spacing: 0.14em; }
 /* ---- product records ---- */
 
 .record {
-  border-block-start: var(--rule-heavy) solid var(--color-ink);
+  /* hairline, not heavy ink — a full-bleed bright bar between products is too loud on dark */
+  border-block-start: var(--rule-hair) solid var(--color-rule);
   padding-block: var(--space-2xl) var(--space-3xl);
 }
 /* one-line family entries — same columns, tighter rhythm */
