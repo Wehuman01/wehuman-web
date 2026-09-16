@@ -48,7 +48,10 @@ const canonical = new URL(Astro.url.pathname, site);
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content={locale === 'zh' ? 'zh_CN' : 'en'} />
     <meta property="og:locale:alternate" content={locale === 'zh' ? 'en' : 'zh_CN'} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={new URL(url('/images/og.png'), site)} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f8fb" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1c1d22" />
     <script is:inline>
       // set the mode before first paint — no flash of the wrong theme
       (function () {
@@ -64,6 +67,7 @@ const canonical = new URL(Astro.url.pathname, site);
   <body>
     <canvas id="rain" aria-hidden="true"></canvas>
     <div class="frame">
+      <a class="skip-link" href="#main">{locale === 'zh' ? '跳到正文' : 'Skip to content'}</a>
       <header class="mast">
         <div class="shell-in">
           <p class="mast__line label">{t.masthead.line}</p>
@@ -98,7 +102,7 @@ const canonical = new URL(Astro.url.pathname, site);
         </div>
       </header>
 
-      <main>
+      <main id="main">
         <slot />
       </main>
 
