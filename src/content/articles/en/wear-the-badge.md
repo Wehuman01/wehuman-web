@@ -24,7 +24,7 @@ Three AI tools and one project collection, all shipping skills through aweskill.
 
 **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — the session bookmark manager. Bookmark, categorize, search, and resume Claude Code and Codex sessions, with the original profile restored on resume. aweswitch's `-c` and `-t` launch flags hand off to aweshelf automatically. The two compose: aweswitch launches, aweshelf remembers.
 
-**[awescholar](https://github.com/Webioinfo01/awescholar)** — scientific literature discovery. An AI-agent-operable tool for searching, annotating, filtering, and reporting on academic papers. It is also aweskill-powered: its capabilities reach the agent through skills.
+**[awescholar](https://github.com/wehuman01/awescholar)** — scientific literature discovery. An AI-agent-operable tool for searching, annotating, filtering, and reporting on academic papers. It is also aweskill-powered: its capabilities reach the agent through skills.
 
 **[Awesome AI Meets Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology)** — a curated survey of AI applications in biology, bioinformatics, and biomedical research. Powered by awescholar, which is powered by aweskill — so the dependency chain reads right off the README.
 
@@ -87,4 +87,4 @@ aweskill is part of the [Webioinfo](https://www.webioinfo.top/) ecosystem:
 
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Agent profile switcher (Claude, Codex, OpenCode)
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI coding session manager with profile-aware restoration
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — Automated scientific literature discovery
+- **[awescholar](https://github.com/wehuman01/awescholar)** — Automated scientific literature discovery

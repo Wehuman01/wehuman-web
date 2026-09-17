@@ -249,4 +249,4 @@ aweswitch 是 [Webioinfo](https://www.webioinfo.top/) 生态的一部分：
 
 - **[aweskill](https://aweskill.webioinfo.top/)** — 面向 47+ AI 编程智能体的 CLI 优先 Skill 包管理器
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 支持配置感知恢复的 AI 编程会话管理器
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化科学文献发现
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化科学文献发现

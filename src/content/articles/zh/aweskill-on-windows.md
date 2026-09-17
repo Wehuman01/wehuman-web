@@ -141,4 +141,4 @@ aweskill 是 [Webioinfo](https://www.webioinfo.top/) 生态的一部分：
 
 - **[aweswitch](https://github.com/mugpeng/aweswitch)** — Agent 配置切换器（Claude、Codex、OpenCode）；现已跨平台
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 带配置感知恢复的 AI 编码会话管理器
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化的学术文献发现工具
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化的学术文献发现工具

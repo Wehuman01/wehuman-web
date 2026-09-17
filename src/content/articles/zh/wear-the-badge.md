@@ -24,7 +24,7 @@ GitHub: [github.com/Webioinfo01/aweskill](https://github.com/Webioinfo01/aweskil
 
 **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 会话书签管理器。可以为 Claude Code 和 Codex 会话添加书签、分类、搜索和恢复，恢复时还会还原原有的配置档案。aweswitch 的 `-c` 和 `-t` 启动参数会自动把控制权交给 aweshelf。两者协同工作：aweswitch 启动会话，aweshelf 记住一切。
 
-**[awescholar](https://github.com/Webioinfo01/awescholar)** — 科学文献发现工具。一个可被 AI 智能体操作的工具，用于搜索、标注、筛选和报告学术论文。它同样由 aweskill 驱动：它的能力通过技能直达智能体。
+**[awescholar](https://github.com/wehuman01/awescholar)** — 科学文献发现工具。一个可被 AI 智能体操作的工具，用于搜索、标注、筛选和报告学术论文。它同样由 aweskill 驱动：它的能力通过技能直达智能体。
 
 **[Awesome AI Meets Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology)** — 一份精选的 AI 在生物学、生物信息学和生物医学研究中的应用清单。由 awescholar 驱动，而 awescholar 又由 aweskill 驱动——所以这条依赖链在 README 里一目了然。
 
@@ -87,4 +87,4 @@ aweskill 是 [Webioinfo](https://www.webioinfo.top/) 生态系统的一部分：
 
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — 智能体配置档案切换器（Claude、Codex、OpenCode）
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 支持配置档案恢复的 AI 编程会话管理器
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化科学文献发现工具
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化科学文献发现工具

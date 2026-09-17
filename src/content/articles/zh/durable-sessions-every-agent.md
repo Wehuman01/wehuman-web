@@ -301,7 +301,7 @@ aweshelf edit aweshelf_0012 -t "DEG analysis — fixed batch effect" -c bioinfo
 `aweshelf` 是 [Webioinfo](https://www.webioinfo.top/) 生态的一部分——一系列面向 AI 辅助开发的工具：
 
 - **[aweskill](https://aweskill.webioinfo.top/)** — 面向 47+ AI 编程 Agent 的 CLI Skill 包管理器。在 Claude Code、Codex、Cursor 等 Agent 之间安装、更新和投影 Skill。
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化科学文献检索。搜索、标注、过滤，用 LLM 流水线生成研究报告。
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化科学文献检索。搜索、标注、过滤，用 LLM 流水线生成研究报告。
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Agent 配置切换器。用不同的 API 端点、Token 和模型启动会话。
 
 ## 试一试

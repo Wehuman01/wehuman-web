@@ -299,7 +299,7 @@ AI 编程 Agent 的生态正在快速多样化。开发者不再只用一个端�
 
 - **[aweskill](https://aweskill.webioinfo.top/)** — 面向 47+ AI 编程 Agent 的 CLI Skill 包管理器。在 Claude Code、Codex、Cursor 等 Agent 之间安装、更新和投影 Skill。
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI 编程会话管理器。保存、搜索、恢复 Agent 会话，支持 profile 感知的恢复。
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化科学文献检索。搜索、标注、过滤，用 LLM 流水线生成研究报告。
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化科学文献检索。搜索、标注、过滤，用 LLM 流水线生成研究报告。
 
 ## 试一试
 

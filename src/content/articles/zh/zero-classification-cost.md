@@ -86,4 +86,4 @@ awerouter 是 aweteam 生态的一部分：
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — AI 编程智能体配置方案切换器，支持 Claude Code、Codex 和 OpenCode；启动会话时自动指向 awerouter 守护进程
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 支持配置方案感知恢复的 AI 编程会话管理器
 - **[awerouter](https://github.com/mugpeng/awerouter)** — 智能大语言模型路由器，自动利用结构信号将智能体请求分配到快速低价的轻量模型或能力更强的旗舰提供商，平衡成本、延迟与推理质量
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 面向 Awesome 列表的自动化科学文献发现与整理工具
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 面向 Awesome 列表的自动化科学文献发现与整理工具

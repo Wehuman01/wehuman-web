@@ -104,7 +104,7 @@ const en = {
           {
             name: 'awescholar',
             intro: 'Scientific literature discovery and curation that AI agents can operate: search, annotate, filter, report — or just run the CLI yourself.',
-            repo: 'https://github.com/Webioinfo01/awescholar',
+            repo: 'https://github.com/wehuman01/awescholar',
             site: '',
           },
           {
@@ -310,7 +310,7 @@ const zh = {
           {
             name: 'awescholar',
             intro: '交给 AI agent 操作的科研文献发现与整理：搜索、标注、筛选、出报告——自己在 CLI 里跑也行。',
-            repo: 'https://github.com/Webioinfo01/awescholar',
+            repo: 'https://github.com/wehuman01/awescholar',
             site: '',
           },
           {

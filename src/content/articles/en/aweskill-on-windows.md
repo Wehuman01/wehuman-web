@@ -119,4 +119,4 @@ aweskill is part of the [Webioinfo](https://www.webioinfo.top/) ecosystem:
 
 - **[aweswitch](https://github.com/mugpeng/aweswitch)** — Agent profile switcher (Claude, Codex, OpenCode); now cross-platform
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI coding session manager with profile-aware restoration
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — Automated scientific literature discovery
+- **[awescholar](https://github.com/wehuman01/awescholar)** — Automated scientific literature discovery

@@ -303,7 +303,7 @@ It does not try to be a platform. It does not sync to the cloud. It does not req
 `aweshelf` is part of the [Webioinfo](https://www.webioinfo.top/) ecosystem — a collection of tools for AI-assisted development:
 
 - **[aweskill](https://aweskill.webioinfo.top/)** — CLI-first Skill package manager for 47+ AI coding agents. Install, update, and project Skills across Claude Code, Codex, Cursor, and more.
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — Automated scientific literature discovery. Search, annotate, filter, and generate research reports with LLM-powered pipelines.
+- **[awescholar](https://github.com/wehuman01/awescholar)** — Automated scientific literature discovery. Search, annotate, filter, and generate research reports with LLM-powered pipelines.
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Agent profile switcher. Launch sessions with different API endpoints, tokens, and models.
 
 ## Try It
