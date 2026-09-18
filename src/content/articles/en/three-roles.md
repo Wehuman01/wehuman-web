@@ -70,7 +70,7 @@ GitHub: [github.com/wehuman01/aweshare](https://github.com/wehuman01/aweshare)
 
 aweshare is part of the aweteam ecosystem:
 
-- **[aweskill](https://aweskill.webioinfo.top/)** — CLI-first skill package manager supporting 47+ AI coding agents
+- **[aweskill](https://aweskill.wehuman.top/)** — CLI-first skill package manager supporting 47+ AI coding agents
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — agent config switcher for Claude Code, Codex, and OpenCode
 - **[awerouter](https://github.com/mugpeng/awerouter)** — smart router that sends requests to Flash or Pro models using structural signals
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI coding session manager; restore sessions per profile

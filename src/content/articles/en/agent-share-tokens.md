@@ -209,7 +209,7 @@ The agent already knows the commands. You just had not given it the README yet.
 
 aweshare is part of the aweteam ecosystem:
 
-- **[aweskill](https://aweskill.webioinfo.top/)** — CLI-first skill package manager for 47+ AI coding agents
+- **[aweskill](https://aweskill.wehuman.top/)** — CLI-first skill package manager for 47+ AI coding agents
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Agent profile switcher for Claude Code, Codex, and OpenCode; launches sessions with the right provider config
 - **[awerouter](https://github.com/mugpeng/awerouter)** — A smart LLM router that automatically directs agent requests to fast, low-cost Flash models or more capable Pro providers using structural signals
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI coding session manager with profile-aware restoration

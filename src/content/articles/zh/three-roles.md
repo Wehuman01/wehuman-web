@@ -70,7 +70,7 @@ GitHub：[github.com/wehuman01/aweshare](https://github.com/wehuman01/aweshare)
 
 aweshare 是 aweteam 生态的一部分：
 
-- **[aweskill](https://aweskill.webioinfo.top/)** — CLI 优先的技能包管理器，支持 47+ AI 编程 agent
+- **[aweskill](https://aweskill.wehuman.top/)** — CLI 优先的技能包管理器，支持 47+ AI 编程 agent
 - **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Claude Code、Codex、OpenCode 的 agent 配置切换器
 - **[awerouter](https://github.com/mugpeng/awerouter)** — 智能路由器，用结构信号把请求分给 Flash 或 Pro 模型
 - **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI 编程会话管理器，按 profile 恢复现场
