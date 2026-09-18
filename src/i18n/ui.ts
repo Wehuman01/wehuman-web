@@ -81,7 +81,7 @@ const en = {
             name: 'aweskill',
             intro: 'A CLI-first skill package manager that AI agents can operate themselves: install, update and bundle skills across Claude Code, Codex, Cursor and more.',
             repo: 'https://github.com/Webioinfo01/aweskill',
-            site: 'https://aweskill.webioinfo.top/',
+            site: 'https://aweskill.wehuman.top/',
           },
           {
             name: 'aweswitch',
@@ -156,6 +156,24 @@ const en = {
         ],
         briefs: [],
       },
+      {
+        label: 'websites',
+        records: [
+          {
+            name: 'eggx',
+            intro: 'Free AI coding credits appear and vanish every week, and most “freebie roundups” rot because nobody re-checks them. eggx answers one question — what can you claim right now? Every offer is a small conclusion carrying four pieces of evidence: an official source, a credibility label, the real limits, and the date it was last verified.',
+            boundaries: [
+              'Free ≠ unlimited: an unpublished limit stays “undisclosed” — never guessed into “unlimited”.',
+              'Every offer is labelled official-verified or community-reported; a third-party source can suggest an entry but never serve as the only evidence.',
+              'Expired offers are archived, not deleted — the audit trail stays public.',
+            ],
+            repo: 'https://github.com/wehuman01/eggx',
+            site: 'https://eggx.wehuman.top/',
+            meta: ['three sections', 'bilingual', 'agent APIs'],
+          },
+        ],
+        briefs: [],
+      },
     ],
     back: '← back to the front page',
   },
@@ -208,7 +226,7 @@ const en = {
   },
   colophon: {
     motto: 'The machine repeats. The person decides.',
-    dense: `Source on <a href="${ORG}">GitHub</a> — issues welcome. © 2026 wehuman.`,
+    dense: `Source on <a href="${ORG}">GitHub</a> — issues welcome. Our sister studio <a href="https://www.webioinfo.top/">webioinfo</a> lets AI be your dev team. © 2026 wehuman.`,
     github: 'GitHub ↗',
     email: 'peng@wehuman.top',
     wechat: 'WeChat 公众号',
@@ -287,7 +305,7 @@ const zh = {
             name: 'aweskill',
             intro: 'CLI 优先的技能包管理器，AI agent 能自己操作：在 Claude Code、Codex、Cursor 等 agent 里安装、更新、打包技能。',
             repo: 'https://github.com/Webioinfo01/aweskill',
-            site: 'https://aweskill.webioinfo.top/',
+            site: 'https://aweskill.wehuman.top/',
           },
           {
             name: 'aweswitch',
@@ -362,6 +380,24 @@ const zh = {
         ],
         briefs: [],
       },
+      {
+        label: '网站',
+        records: [
+          {
+            name: 'eggx',
+            intro: '免费的 AI 编码额度每周都在出现和消失，大多数“免费资源大全”没人复查，慢慢就烂掉了。eggx 只回答一个问题：现在有什么可以领？每条羊毛都是一个小结论，带四样证据：官方来源、可信度标签、真实限额、最后核实日期。',
+            boundaries: [
+              '免费 ≠ 无限：没公布的限额就一直写“未公布”，从不推测成“无限”。',
+              '每条羊毛都带可信度标签——官方核实的，还是社区消息待二次确认的；第三方来源只能引导收录，不能作为唯一依据。',
+              '过期只归档，不删除，公开的核实轨迹留得住。',
+            ],
+            repo: 'https://github.com/wehuman01/eggx',
+            site: 'https://eggx.wehuman.top/',
+            meta: ['三种羊毛', '双语', 'Agent 接口'],
+          },
+        ],
+        briefs: [],
+      },
     ],
     back: '← 回到首页',
   },
@@ -414,7 +450,7 @@ const zh = {
   },
   colophon: {
     motto: '机器负责重复，人负责决定。',
-    dense: `源码在 <a href="${ORG}">GitHub</a>，欢迎 issue。© 2026 wehuman。`,
+    dense: `源码在 <a href="${ORG}">GitHub</a>，欢迎 issue。姊妹团队 <a href="https://www.webioinfo.top/">webioinfo</a>——让 AI 成为你的开发团队。© 2026 wehuman。`,
     github: 'GitHub ↗',
     email: 'peng@wehuman.top',
     wechat: '公众号',
